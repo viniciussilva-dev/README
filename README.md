@@ -15,7 +15,8 @@
 
 ## 🪪 Sobre mim
 
-Olá! Sou o **Vinicius silva**, desenvolvedor focado em web, apaixonado por tecnologia e design. Busco sempre me aprimorar e explorar novas stacks e ferramentas, com o objetivo de criar soluções eficientes e criativas.
+Atualmente, sou estudante de Ciência da Computação na Faculdade Unimetrocamp e Estagiário em TI no Canal Solar, com o objetivo de construir uma carreira sólida na área de tecnologia, especialmente na área de desenvolvimento web, back-end, Full Stack.
+Minha trajetória começou com o curso técnico em Mecatrônica pelo Senai Roberto Mange, onde desenvolvi uma base sólida em tecnologia, lógica e processos automatizados. Paralelamente, busquei aprimorar meus conhecimentos em informática, realizando cursos voltados ao pacote Office e ao uso de ferramentas digitais. Tenho experiência com Python, CSS, JavaScript, PHP, MySQL, Git,Visual Studio Code,WorkFlow,n8n, busco constantemente aprimorar minhas habilidades e contribuir com soluções tecnológicas que gerem valor para contribuir com empresas e sempre aprimorar meus conhecimentos.
 
 ---
 
